@@ -1,0 +1,6 @@
+## Tag 7
+#### Vallaki - Tag 5
+##### Vistani
+Meine 4 Freunde machen sich auf den Weg zu Arrigal, vielleicht kann er mich wiederbeleben. Gegen seinen Willen wurde der Entführer wiederbelebt und wird nun von Luwasch ausgepeitscht. Kasimir leidet zurzeit unter einer Krankheit, durch die er hysterisch Lachen muss, Aldur wurde angesteckt. Wenn wir es schaffen ihn zu heilen, wird er uns Vertrauen und Aldur gegen eine Bezahlung seine Zauber lehren.Br/>Eri ist es möglich die beiden zu heilen. Für 550 Gold bekommen sie eine Schriftrolle zur Wiederbelebung. Ein toter Lando am Baum beginnt zu schmelzen, als Eri ihn berührt.
+##### Strahds Einladung
+*Meine Freunde,<Br/>Wisset, dass ich er war, der Euch in dieses Lans gebracht hat, meine Heimat, und dass nur ich Euch daraus entlassen kann. Ich lade Euch zum Abendessen in mein Schloss ein, auf dass wir uns in zivilisierter Umgebung treffen können. Eure Passage hierher wird sicher sein. Ich erwarte Eure Ankunft.<Br/>Euer Gastgeber, Strahd von Zarowitsch*
