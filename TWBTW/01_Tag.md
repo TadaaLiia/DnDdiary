@@ -138,3 +138,4 @@ Kettlesteam gibt uns das Gefäß, dass die Stimme von Candlefoot hält zurück. 
 Wir geben Candlefoot seine Stimme zurück, sofort eilt er zu Palasha und die beiden sind wieder glücklich und vereint!
 
 Werden wir Kettlesteam ausliefern? 
+Hallo ich bin Ava und ich kann in die Zukunft sehen.
