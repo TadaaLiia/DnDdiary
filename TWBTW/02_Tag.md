@@ -38,16 +38,16 @@ Aus dem Wasser tauchen fünf kleine, matschige, schlammige Teufelchen mit langen
 
 > eine kleine hölzerne Galionsfigur eines Schiffes.
 
-Das Wasser beginnt anzusteigen. Wir erreichen einen kleinen Hügel und beobachten wie das Wasser circa 10 Minuten kontinuierlich ansteigt und bei circa 5ft Höhe stoppt. Blue holt seinen kleinen Freund Borkie heraus, er ist ein Ast und bekomme laut Blue langsam seine Kraft wieder. Er habe ihn einer Hexe Moongrave geklaut. Wenn das nicht noch ärger gibt..
+Das Wasser beginnt anzusteigen. Wir erreichen einen kleinen Hügel und beobachten wie das Wasser circa 10 Minuten kontinuierlich ansteigt und bei circa 5ft Höhe stoppt. Blue holt seinen kleinen Freund Borkie heraus, er ist ein Ast und bekomme laut Blue langsam seine Kraft wieder. Er habe ihn einer Hexe Moongrave geklaut. Wenn das nicht noch Ärger gibt..
 
 Nach einer kurzen Pause müssen wir weiter. Das Wasser ist eine Qual und Blue versucht auch noch mich rein zu schubsen, doch er ist viel zu schwach und er landet stattdessen im Wasser. Hehe. Stunden vergehen während unsere Marsch, doch das Wasser flacht zum Glück wieder ab.
 
 #### SCHLACHTFELD
-Vor uns erstreckt sich ein großes Schlachtfeld. Rüstungen, Knochen, kaputte Schilde liegen auf dem Boden. Als wir näher treten, versperren uns Elfen-geschmiedete Rüstungen mit Helmen aussehen, die Eulen den Weg. Sie imitieren unsere Bewegungen und halten uns davon auf, dem Turm näherzukommen. Blue und ich schaffen es schneller, als die Rüstungen zu sein und laufen nach einigen Versuchen an ihnen vorbei, dich Dore hat größere Probleme. Nach mehreren dummen Ideen geht er 100ft zurück, bis die Rüstung wieder in sich zusammenfällt. Ava macht dasselbe und die beiden erreichen uns. 
+Vor uns erstreckt sich ein großes Schlachtfeld. Rüstungen, Knochen, kaputte Schilde liegen auf dem Boden. Als wir näher treten, versperren uns Elfen-geschmiedete Rüstungen mit Helmen aussehen, die Eulen den Weg. Sie imitieren unsere Bewegungen und halten uns davon auf, dem Turm näherzukommen. Blue und ich schaffen es schneller, als die Rüstungen zu sein und laufen nach einigen Versuchen an ihnen vorbei, doch Dore hat größere Probleme. Nach mehreren dummen Ideen geht er 100ft zurück, bis die Rüstung wieder in sich zusammenfällt. Ava macht dasselbe und die beiden erreichen uns. 
 
 Insgesamt sind wir nun schon 8h unterwegs. 4h sind vergangen, seitdem der Wasserspiegel wieder abgefallen ist, er steigt wieder an. Der Nebel kommt langsam näher und hinter ihm verbirgt sich ein ziemlich krummer, schräger Turm. 
 
 ### DER SCHIEFE TURM VON HITHER
-Ein Korb hängt den Turm herunter, der Heißluftballon ist mit dem Stoff oben an der Spitze des Turms aufgespießt. der Turm ist circa 50ft hoch, hat einen 20ft Durchmesser und der Korb hängt in 30ft Höhe. Lichtes Dickicht aus schwarzen Dornen und Ranken wächst um den Turm herum. 
+Ein Korb hängt den Turm herunter, der Heißluftballon ist mit dem Stoff oben an der Spitze des Turms aufgespießt. Der Turm ist circa 50ft hoch, hat einen 20ft Durchmesser und der Korb hängt in 30ft Höhe. Lichtes Dickicht aus schwarzen Dornen und Ranken wächst um den Turm herum. 
 
 "Psst ich brauche eure Hilfe! Ich sitze in der Falle, wie ihr sehen könnt. Ich **Sir Talawah** bin einer der loyalen Diener der Sommerkönigin! Ich verlange von eich, dass ihr mich befreit! Ich bin auf einer wagemutigen Flucht vor Hexe Bavlorna Blidestraw. Mein Pilot hat die Flucht leider nicht überlebt. Helft mir, ich muss unbedingt zu meiner Königin und ihr Bescheid geben. Passt auf die Schlangen vor dem Eingang des Turms auf! Als Gegenleistung erhaltet ihr mein magisches Schwert!"
