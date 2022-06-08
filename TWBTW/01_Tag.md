@@ -57,6 +57,8 @@ Ava und Dore schaffen das Spiel *Drachenschwanz fangen* direkt beim ersten Versu
 Beim *Poetryslam* werde ich richtig fertig gemacht von einem Gnome, doch Dore, Blue und Ava rächen mich! Blue schenkt mir seine gewonnene
 > **Tascha Puppe:** 3x Minor Illusion!
 
+**Wenzo, Michael schreibt mal eure rheime rein!**
+
 Auch das *Goblin Wrestling* fällt mir schwer, aber Blue, Dore und Ava schaffen es mit Leichtigkeit die Goblins fertigzumachen. 
 
 Endlich mal eine Herausforderung, der ich gewachsen bin! Der Zyklop, gegen den ich beim *Zyklopen-Anstarrduell* gewonnen habe, hatte richtig Tränen im Auge. Ich erhalte eine Replikation eines Einhorns, gefüllt mit dutzenden Süßigkeiten, die sofort von Dore vernascht werden. 
@@ -77,11 +79,11 @@ Wir vervollständigen die Namen, steigen auf die Pferde und erhalten telepathisc
 
 Blue: *"Endelyns Hort ist ein einem Theater auf einem Berggipfel. Sie hat ihren eigenen Tod in einer Sonnenfinsternis vorhergesehen."*
 
-Dore: *"Skeletta Nightshade hat deine Sache und lebt in einem Baum in einem Feenwald."*
+Dore: *"Skabatha Nightshade hat deine Sache und lebt in einem Baum in einem Feenwald."*
 
 Ava: *"Bavelora Baiehtstraw lebt in einer heruntergekommenen Hütte in einem Sumpf und bewacht das, was du begehrst."*
 
-Trix: *"Sybilna aus Prismier ist in der Zeit eingefroren. Ihre ehemaligen Schwestern haben sich zusammen getan und sie gestürzt."*
+Trix: *"Sybilna aus Prismeer ist in der Zeit eingefroren. Ihre ehemaligen Schwestern haben sich zusammen getan und sie gestürzt."*
 
 Blue wirkt überglücklich.
 
@@ -138,4 +140,65 @@ Kettlesteam gibt uns das Gefäß, dass die Stimme von Candlefoot hält zurück. 
 Wir geben Candlefoot seine Stimme zurück, sofort eilt er zu Palasha und die beiden sind wieder glücklich und vereint!
 
 Werden wir Kettlesteam ausliefern? 
-Hallo ich bin Ava und ich kann in die Zukunft sehen.
+
+### STAFF AREA
+
+|      | DORE | BLUE | TRIX | AVA | LEON |
+|------|:----:|:----:|:----:|:---:|:----:|
+| 1    | 0    | 1    | 1    | 1   | 4    |
+| 20   | 1    | 0    | 0    | 0   | 3    |
+
+Die anderen sind sich einig, dass sie Mr. Witch und Mr. Light beklauen wollen. Sie hecken einen Plan aus, ich setze mich ein paar Meter weiter weg. Mit diesem Plan möchte ich nichts zu tun haben. Ich beobachte einen Satyr, er spielt Flöte und Ratten laufen ihm hinterher, tanzen zur Flöte. Langsam pirsche ich mich heran und kralle mir eine der Ratten. Ein paar mal lasse ich sie laufen und fange sie wieder ein, doch sie schafft es schließlich sich mir zu entwinden. Blue gibt mir sein Wollknäuel zum Spielen.
+
+In 15 Minuten ist es so weit, die Krönung des Witchlight Monarchen. Ava und Dore machen sich auf den Weg zum Wagen von Mr. Light und Mr. Witch. Ich mache mich schonmal auf den Weg zum BigTop und halte meinen Freunden einen Platz frei. Hoffentlich werde ich gekrönt!
+
+Ava versteckt sich draußen, Mr. Witch und Mr. Light treten aus ihrem Wagen. "Was denkst du, wer wird gekrönt?" "Vielleicht einer der Neuankömmlinge." Sie gehen auf Dore zu. 
+
+*Sum Sum wir haben Kettlesteam gefunden!*
+**Michael bitte vervollständigen!**
+
+Ava nutzt die Ablenkung und klaut Mr. Witch unbemerkt seine Uhr. Sie lässt sie in ihrer Tasche verschwinden und schleicht sich unbemerkt davon. Dore verspricht, dass wir nach der Krönung mit Kettlesteam zu ihnen kommen. Mit der Uhr ist es Ava möglich *Invisibility*, *Firebold* und *Message* zu casten. Sie zeigt die Zeiten 1 bis 8 und steht nun auf der 8. 
+
+Blue verwandelt sich in die Gestalt, die Kettlesteam hat und nimmt die Uhr an sich. Kettlesteam nimmt Blues Gestalt an. Sie waren außerhalb des Big Tops. 
+
+### BIG TOP
+Ich sitze im Publikum und warte auf meine Freunde. Einige Besucher erkennen mich, meine Performace ist anscheinend in Erinnerung geblieben, sie war aber auch echt gut!
+
+"Willkommen, Willkommen, nun finden wir heraus, wer den Zirkus heute am meisten bereichert hat." Light nimmt seinen Stab und lässt ihn über die Menge gleiten. Er richtet sich auf mich!
+"Wir haben eine Monarchin!" Mr. Light schnipst und ich stehe auf der Bühne im Spotlight. Die Menge jubelt und klatscht, Light nimmt eine Krone vom Samtkissen und setzt sie mir auf den Kopf. 
+"Hiermit ernenne ich dich zur Witchlight Monarchin!" Überall erscheinen Blumen von Ava herbeigezaubert, Palasha sing, Dirlagraun maunzt, die Stimmung ist hervorragend. 
+
+Eine Parade zieht durch den Zirkus, ich verteile Autogramme und schließe mich der Party an. Mir wachsen Flügel und ich fliege über die Menge und bezaubere alle mit meinem Charme.
+
+> **Charm of the Monarch:"** You can sprout a pair of beautiful butterfly wings. As long as you have the wings. As long as you have the wings, you gain a flying speed equal to your walking speed, and you gain a +5 bonus on all Charisma-based ability checks. These effects last for 1 hour. After you use this charm three times, it vanishes from you.  
+
+Light und Witch tuscheln in einer Ecke, es scheint so, als habe Mr. Witch bemerkt, dass die Uhr weg ist. Nach einiger Zeit kündigen die Beiden an, dass alle Besucher den Zirkus durch das neu erschienene rote Tor verlassen sollen. 
+
+### Ticketautomat
+Für eine Gegenleistung versprechen wir, die Uhr zurückzugeben. Mehr Informationen zu unseren verschwundenen Dingen und dem eingegangenen Pakt sind der Preis. 
+Mr. Witch und Mr. Light seien zum Pakt gezwungen worden. Der Stundenglas-Zirkel habe Sybilna gestürzt, sie haben sich Prismeer unter den Nagel gerissen, aufgeteilt und regieren nun das Land. Aufgrund des Paktes werde jeder, der sich nicht an die Regeln halte und sich kein Ticket kauft, beklaut. Alles finde sich in Prismeer wieder, doch das Portal sei nur ein ein-direktionales. Sie wollen Kettlesteam, damit er die Attraktionen nicht mehr stört und ruhig gestellt wird.
+
+Die Stimmung im Zirkus ist sehr, sehr schlecht, auch die beiden Direktoren sind sehr wütend. Wir gehen los zum Treffpunkt mit Blue und Kettlesteam. Ein lauter Schrei ist zu hören und Ava und ich rennen los. Blue liegt blutverschmiert auf dem Boden. Light und Witch glauben uns nicht, dass Kettlesteam uns überfallen habe. 
+
+"Da ihr uns hintergangen habt und es vermasselt habt, machen wir euch folgendes Angebot: Wir lassen euch nach Prismeer. Wenn ihr Sybilna befreit habt und nicht bei dem Versuch sterbt, werdet ihr als Angestellte in unserem Zirkus arbeiten. Für einen Tag werdet ihr auf der Material Plain arbeiten und danach den Zirkus unversehrt verlassen."
+
+Verärgert erlauben sie uns in Avas Wagen zu übernachten, bevor wir am nächsten Tag nach Prismeer aufbrechen werden. Mit seiner Uhr schießt Witch den Zirkus. Die Mitarbeiter gehen zu ihren Wägen, Palasha zieht sich in ihrer Glaskugel zurück. Wir betreten Avas Wagen, draußen halten Burdy und Mr. Witch Wache.
+
+### AVAS WAGEN
+Ava öffnet den Feywild-Wein. Wir beginnen zu erzählen...
+
+Es wird relativ schnell klar, dass **Dore** andere Hummeln über alles hasst. Er hasst ihre Erscheinung, ihr Auftreten, ihr ganzes Dasein. Am liebsten würde er alle Hummeln töten. Sehr drastisch! Sein Ziel der Reise nach Prismeer ist es herauszufinden, wie er wieder fliegen kann. Anfangs konnte er nur hopsen, nun ist es ihm möglich sich zu teleportieren.
+
+Ava weiß immer noch nicht, was sie verloren hat. Vielleicht wurde ihr ihre Rationalität genommen, so wie sie sich verhält. Sie habe zudem von einem magischen Gegenstand in Prismeer gehört, eine Maschine, die die Konstellation der Planeten darstellen kann. "Wahrhaftig kann man damit in die Zukunft sehen. Sterne und Planeten können uns alles über die Zukunft verraten." Orrery heiße die Maschine.
+
+Blue habe das Gerät gesehen. Er hat seinen richtigen Körper verloren. Früher sei er ein glücklicher Menschenjunge gewesen, doch heute fehlen im sogar die Erinnerungen daran. In Prismeer sucht er seine Menschlichkeit.
+
+Unsere Prophezeiungen handeln alle von Hexen. **Sybilna**, **Endelyn**, **Skabatha** und eine unbekannte Hexe, wahrscheinlich bei dem **Orrery**. Wir müssen wahrscheinlich fünf Orte in Prismeer aufsuchen:
+
+- Theater auf dem Berggipfel
+- Baum im Feenwald
+- heruntergekommene Hütte in einem Sumpf
+- Orrery
+- Sybilna finden
+
+Wir legen uns schlafen.
